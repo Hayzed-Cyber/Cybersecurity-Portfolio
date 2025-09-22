@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio  
 
 Hello, I’m Ashogbon Ayomikun Abdulazeez.  
-I’m currently completing the **Google Cybersecurity Certificate**, and this portfolio showcases my progress, starting with Chapters 1 and 2.  
+I’m currently completing the **Google Cybersecurity Certificate**, and this portfolio showcases my progress, starting with Course 1 and 2.  
 
 ## Courses  
 
