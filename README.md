@@ -14,6 +14,7 @@ I’m currently completing the **Google Cybersecurity Certificate**, and this po
 ### Course 2 – Play It Safe: Manage Security Risks  
 - Security Audit Checklist
 - course 2 certificate
+  
   👉 [View course 2 progress here](./Portfolio)
 
 ---
