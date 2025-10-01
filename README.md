@@ -17,6 +17,15 @@ I’m currently completing the **Google Cybersecurity Certificate**, and this po
   
   👉 [View course 2 progress here](./Portfolio/course-2-play-it-safe:Manage-Security-Risks)
 
+### Course 3 – Connect and protect: Network and Network security 
+- First Cybersecurity incident report network traffic analysis
+- Second Cybersecurity incident report
+- Third Security incident report template
+- Forth Security risk assessment report
+- Incident report analysis
+- course 3 certificate
+  
+  👉 [View course 3 progress here](./Portfolio/course-2-play-it-safe:Manage-Security-Risks)
 ---
 
 This portfolio will grow as I progress through more courses and build new projects.  
