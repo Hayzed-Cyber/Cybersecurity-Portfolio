@@ -25,7 +25,7 @@ I’m currently completing the **Google Cybersecurity Certificate**, and this po
 - Incident report analysis
 - course 3 certificate
   
-  👉 [View course 3 progress here](./Portfolio/course-2-play-it-safe:Manage-Security-Risks)
+  👉 [View course 3 progress here](Portfolio/Course3-Connect-and-protect-Network-and-network-security)
 ---
 
 This portfolio will grow as I progress through more courses and build new projects.  
