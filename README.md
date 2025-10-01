@@ -25,7 +25,7 @@ I’m currently completing the **Google Cybersecurity Certificate**, and this po
 - Incident report analysis
 - course 3 certificate
   
-  👉 [View course 3 progress here](Portfolio/Course3-Connect-and-protect-Network-and-network-security)
+  👉 [View course 3 progress here]([Portfolio/Course3-Connect-and-protect-Network-and-network-security](https://github.com/Hayzed-Cyber/Cybersecurity-Portfolio/tree/7092f3666e1a27989f2b1e18c938aff745789cc7/Portfolio/Course3-Connect-%20and-protect-Network-and-network-security))
 ---
 
 This portfolio will grow as I progress through more courses and build new projects.  
